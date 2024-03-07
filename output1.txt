@@ -1,0 +1,6 @@
+The maximum possible flow is: 9
+Paths used:
+Path: S -> B -> G -> T, Flow: 4
+Path: S -> A -> D -> F -> T, Flow: 2
+Path: S -> B -> G -> I -> T, Flow: 1
+Path: S -> C -> H -> I -> T, Flow: 2
